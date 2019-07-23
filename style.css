@@ -474,6 +474,18 @@ img{
 	}
 	
 	
+@media screen and (max-width:1270px){
+	.header-top{
+		padding: 30px 15px;
+	}
+
+	.header-bottom{
+		padding: 30px 15px;
+	}
+
+}
+
+
 @media screen and (max-width:900px){
 	.my-slider ul li h2{
 		top:150px;
@@ -613,6 +625,7 @@ img{
 
 
 @media screen and (max-width:360px){
+
 	.email-inpt{
 		float:none;
 		width:95%;
